@@ -1,0 +1,31 @@
+body {
+  font-family: "helvetica neue";
+}
+
+pre {
+  font-size: 40px;
+  line-height: 1.2em;
+}
+
+img {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+img.thinking-image {
+  width: 160px;
+  height: 160px;
+}
+
+.wide-slide {
+  position: relative;
+}
+
+
+.links a {
+  font-size: smaller;
+}
+
+.bigger-line-gap {
+  line-height: 1.18em;
+}
